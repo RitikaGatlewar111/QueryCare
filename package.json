@@ -1,0 +1,10 @@
+{
+  "name": "querycare-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev"
+  }
+}
